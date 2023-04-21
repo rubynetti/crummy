@@ -1,3 +1,6 @@
+1.9.0
+* [ADDED] Add support to rails 5.1 (change before_filter with before_action)
+
 1.8.0
 * [ADDED] You can now set each parameters individually for each crumb
 * [ADDED] You can now set each crumb on right or left side
